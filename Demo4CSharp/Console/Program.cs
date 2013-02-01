@@ -10,6 +10,8 @@ namespace Consoles
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("start");
+
             Console.WriteLine("v1");
             Console.ReadLine();
         }
