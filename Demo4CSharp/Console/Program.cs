@@ -12,7 +12,7 @@ namespace Consoles
         {
             Console.WriteLine("start");
 
-            Console.WriteLine("v1");
+            Console.WriteLine("v2");
             Console.ReadLine();
         }
     }
